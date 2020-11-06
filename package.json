@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-no-img-tag",
+  "version": "1.0.2",
+  "description": "![Node.js CI](https://github.com/darwintantuco/eslint-plugin-jsx-img-no-referrer/workflows/Node.js%20CI/badge.svg)",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
