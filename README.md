@@ -12,7 +12,7 @@
 
 {
   "rules": {
-    "no-img-tag/no-img-tag": "error"
+    "no-img-tag/tag": "error"
   }
 }
 
